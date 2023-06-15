@@ -8,5 +8,4 @@ The names of a large majority of divs were changed to something else, such as he
 
 ### Screenshots
 
-https://cdn.discordapp.com/attachments/140507648310247424/1117599510219210763/image.png
-https://cdn.discordapp.com/attachments/140507648310247424/1117599645191905291/image.png
+![HTML Horiseon Website](assets/images/01-html-css-git-homework-demo.png)
